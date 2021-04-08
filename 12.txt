@@ -1,0 +1,43 @@
+Technical Research Paper
+“Microcontroller based Fault Detector”
+
+GENERAL Abstract
+
+Purpose: The aim of this research is to develop a device used to detect faults in the
+line and isolate the connected system or instrument connected to it
+
+Seope: This device involves the use of microcontroller for detection and isolation of
+the system of instrument with proper use of programming. The instrument devised is
+economical and effective compared to other protective devices available in market,
+‘After the patent of the product « large scale production is also possible for consumer
+Design Approach: The design methodology involves the use of microcontroller in
+conjugation with the relay circuitry with display on a LCD screen. It isa totally new
+design in the market and it will bea substitute to ELCB’s, MCB’s and Relays in near
+future
+
+ 
+
+ 
+
+Practical Implications: The circuit devised can be used in conjugation with the
+‘medical instrument, industrial instrument and even in the household application. It finds
+«alot of applications in factories and industries where costly instruments are to be saved
+from faults.
+
+Conclusion: ‘The device thus developed is very economical and effective in the use of
+protection in household as well as industrial instrument protection, The added
+advantage of this circuit is that it shows the type of fault occurred on LCD and at the
+same time keeps the circuit in isolation until the fault is cleared.
+
+INTRODUCTION
+
+> A faut in electrical equipment is defined as a defect in its electrical circuit due to
+‘which the current is diverted from the intended path,
+
+> Faults are generally caused by mechanical failure, accidents, excessive internal and
+extemal stresses ete
+
+> The fault impedance being low, the fault currents are relatively high. During the faults,
+the power flow is diverted towards the fault and the supply to the neighboring zone is,
+affected. Voltages become unbalanced.
+

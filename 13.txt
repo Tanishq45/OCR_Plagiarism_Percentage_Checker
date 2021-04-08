@@ -1,0 +1,34 @@
+Technical Support White Paper
+
+Date: August 3, 2007
+
+Title: Controlé USB Recovery documentation - using the Recovery utility to
+restore a Control4 device to factory default condition
+
+Product(s) affected:
++ Control4 Media Controller, Home Theater Controller, Home Controller HC-300, Min
+Touch Screen v1 & v2, Speaker Point
+
+Topicts)
++ How to restore a Control device to its factory default condition.
+
+Summary:
+The Controls Recovery utit wil enable Control dealers and installers to minimize the
+time, paperwork, inconvenience, and other costs associated with devices that fail during the
+update proces or at some other time, I wil quickly become a valuable tol in your
+Control arsenal
+
+(Occasionally, and most likely during an update process, a Contrld device wil become
+inoperable. At this point the Dealer / Installer cals Tech Support and troubleshoot the
+evice. if unable to restore the device using Tenet or other measures indicated by Tech
+Support, an RMA will be issued. An RMA is inconvenient and costly both for Controld and
+forthe Dealer / Installer due to increased time on the ob, shipping charges, anda probable
+return trip to the customer site
+
+‘Most ofthe devices which are retumed via RMA canbe restored to a fully functional
+condition. In order to enable Tech Support and the Dealer / Installer to have the ability to
+‘estore devices inthe field, Control has developed the Controlé Recovery utity. Now, ia
+device doesn't update correctly or in some other way becomes inoperable, the Dealer |
+Installer can recover that device immediately. This reduces the time, expense, and
+inconvenience for both partes incurred through the RMA process,
+
